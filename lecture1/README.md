@@ -10,12 +10,12 @@
 
 * [Strategy Primer](#strategy-Primer)
 * [Building Strategy](#building-strategy)
-  *[Turbulence Scale](#turbulence-scale)
-  *[Reading: Building Strategy](#reading:-building-strategy)
+  * [Turbulence Scale](#turbulence-scale)
+  * [Reading: Building Strategy](#reading:-building-strategy)
 * [Strategic Management](#strategic-management)
-  *[Timing for Actionable Intelligence](#timing-for-actionable-intelligence)
-  *[Strategic Management Cube](#strategic-management-cube)
-  *[Reading: Strategic Managment](#reading:-strategic-managment)
+  * [Timing for Actionable Intelligence](#timing-for-actionable-intelligence)
+  * [Strategic Management Cube](#strategic-management-cube)
+  * [Reading: Strategic Managment](#reading:-strategic-managment)
 
 
 ---
