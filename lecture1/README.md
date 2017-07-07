@@ -11,11 +11,11 @@
 * [Strategy Primer](#strategy-Primer)
 * [Building Strategy](#building-strategy)
   * [Turbulence Scale](#turbulence-scale)
-  * [Reading: Building Strategy](#reading:-building-strategy)
+  * [Building Strategy Reading](#building-strategy-reading)
 * [Strategic Management](#strategic-management)
   * [Timing for Actionable Intelligence](#timing-for-actionable-intelligence)
   * [Strategic Management Cube](#strategic-management-cube)
-  * [Reading: Strategic Managment](#reading:-strategic-managment)
+  * [Strategic Managment Reading](#strategic-managment-reading)
 
 
 ---
@@ -63,9 +63,9 @@ Improve Value: New benefits / same cost, benefits / lower cost, ultimately desir
  
 * Business Model:
   MBV: Margin, Burn, Volume
-    * Margin:
-    * Burn: overhead costs
-    * Volume: 
+	* Margin:
+	* Burn: overhead costs
+	* Volume: 
 
 * Sales
 
@@ -161,7 +161,7 @@ ___
   * Best Capability: Flex/Pivot
   * Response: Creative/Pre-emptive
 
-### Reading: Building Strategy
+### Building Strategy Reading
 
 * *Seeing What's Next* 
 > Clayton Christensen, Scott Anthony, Erik Roth
@@ -232,16 +232,10 @@ Understand and map these 5 forces == good handle of the market
 
 ### Igor Ansoff
 
-| Ansoff's Matrix          |
-|--------------------------|
-| Existing -> New Markets  | 
-| Existing -> New Products | 
-
-
-| /play dangerzone  | Existing Products  | New Products | 
+| :arrow_down:  | Existing Products  | New Products | 
 | ----------------- | ------------------ | ------------- |
-| Existing Markets  | Market Penetration | Product Development |  
-| New Markets       | Market Development | Diversification     | 
+| *Existing Markets*  | Market Penetration | Product Development |  
+| *New Markets*       | Market Development | Diversification     | 
 
 ### Timing for Actionable Intelligence 
 
@@ -287,10 +281,10 @@ When making decisions, why not have internal assessment on externals and adapt t
 * Time: 
   * Yes or No
 
-|  .  | Sufficient | Lacking |
+|  :arrow_down:  | Sufficient | Lacking |
 | --- | ---------- | ------- |
-| Yes |  1         |  2      | 
-| No  |  3         |  4      |
+| *Yes* |  1         |  2      | 
+| *No*  |  3         |  4      |
 
 1. Ideal 
 2. Finding partnerships, people that have resources. 
@@ -301,7 +295,7 @@ When making decisions, why not have internal assessment on externals and adapt t
 
 When do you make your Move? 
 
-| . | Early | Mid    | Late |
+| :arrow_down: | Early | Mid    | Late |
 | ---- | ----  | ------ | ---- |
 | **Good Outcome** | Lead  | Pack   | Lag   |
 | **Bad Outcome**  | Alone | Behind | Missed Opportunity | 
@@ -310,24 +304,24 @@ When do you make your Move?
 
 Industry Maturity: Embryonic, Growth, Mature, Aging
  
-| **Position**  | Embryonic | Growth    | Mature  | Aging     |
+| *Position*  | Embryonic | Growth    | Mature  | Aging     |
 | --------  | --------- | --------- | --------- | --------- |
-| **Leading**   | Build     | Build     | Build     | Build     |
-| **Strong**    | Build     | Build     | Build     | Maintain  |
-| **Favorable** | Build     | Build     | Maintain  | Liquidate |
-| **Tenable**   | Build     | Maintain  | Liquidate | Liquidate |
-| **Weak**      | Maintain  | Liquidate | Liquidate | Liquidate |
-| **Nonviable** | Liquidate | Liquidate | Liquidate | Liquidate |
+| *Leading*   | Build     | Build     | Build     | Build     |
+| *Strong*    | Build     | Build     | Build     | Maintain  |
+| *Favorable* | Build     | Build     | Maintain  | Liquidate |
+| *Tenable*   | Build     | Maintain  | Liquidate | Liquidate |
+| *Weak*      | Maintain  | Liquidate | Liquidate | Liquidate |
+| *Nonviable* | Liquidate | Liquidate | Liquidate | Liquidate |
 
-### Reading: Strategic Managment
+### Strategic Managment Reading
 
 * *On Strategy* 
 > Boston Consulting Group 
 
-| .           | Low Market Share   | High Market Share | 
+| :arrow_down: | Low Market Share   | High Market Share | 
 | ----------- | -----------------  | ----------------  |
-| High Growth |  Question Marks    |  Stars            |
-| Low Growth  | Dogs               | Cash cows         |
+| *High Growth* |  Question Marks    |  Stars            |
+| *Low Growth*  | Dogs               | Cash cows         |
 
 * Stars: High Market Shared & High Market Growth
 * Cash Cows: high Market Share & Low Market Growth 
