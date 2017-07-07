@@ -4,8 +4,25 @@
 
 ## Lecture 1: July 6, 2017
 
-### Strategy Course
- * Piecemeal strategy -> A Mess
+## Strategy Course
+ 
+## Table of Contents
+
+* [Strategy Primer](#strategy-Primer)
+* [Building Strategy](#building-strategy)
+  *[Turbulence Scale](#turbulence-scale)
+  *[Reading: Building Strategy](#reading:-building-strategy)
+* [Strategic Management](#strategic-management)
+  *[Timing for Actionable Intelligence](#timing-for-actionable-intelligence)
+  *[Strategic Management Cube](#strategic-management-cube)
+  *[Reading: Strategic Managment](#reading:-strategic-managment)
+
+
+---
+
+## Strategy Primer
+
+* Piecemeal strategy -> A Mess
 
 Understanding strategic terminology is important
 
@@ -46,9 +63,9 @@ Improve Value: New benefits / same cost, benefits / lower cost, ultimately desir
  
 * Business Model:
   MBV: Margin, Burn, Volume
-	* Margin:
-	* Burn: overhead costs
-	* Volume: 
+    * Margin:
+    * Burn: overhead costs
+    * Volume: 
 
 * Sales
 
@@ -71,7 +88,11 @@ Internal operations support strategy, but is not an operations support
 * 2 effective strategies: technological monopoly or lowest price 
 * Senior members should focus on strategic problems not operational problems.   
 
-### Building Strategy
+---
+
+___
+
+## Building Strategy
 
 1. Examine the External Environment
   * Start by looking at the externals
@@ -140,16 +161,17 @@ Internal operations support strategy, but is not an operations support
   * Best Capability: Flex/Pivot
   * Response: Creative/Pre-emptive
 
-#### Reading
-* Seeing What's Next, Clayton Christensen, Scott Anthony, Erik Roth
+### Reading: Building Strategy
+
+* *Seeing What's Next* 
+> Clayton Christensen, Scott Anthony, Erik Roth
 
 1. Clear Change Signals: what is this
 2. Competitive Battles: what does this mean
 3. Strategic Choice: how do you interpret options 
 
----
-
-* Process Innovation: reengineering work through information technology: Thomas Davenport
+* *Process Innovation: reengineering work through information technology* 
+> Thomas Davenport
 
 R+D Re-engineering, re-design 
 process innovation (incremental) 
@@ -158,10 +180,9 @@ Compound savings (little bit at a time/ here and there)
 Continuous Improvement: 
 
 Discontinuous Improvement: 
-
---- 
-
-* Renewable Advantage, Jeffery Williams
+ 
+* *Renewable Advantage* 
+> Jeffery Williams
 
 "Renewability Advantage"
   * recognize products are either: 
@@ -182,9 +203,8 @@ Isolating Mechanisms:
 
 Strategic Staircase (apple,amazon,google):
 
----
-
-* On Competition, Michael Porter
+* *On Competition* 
+> Michael Porter
 
 #### Porter's 5 Forces
 
@@ -196,7 +216,7 @@ Strategic Staircase (apple,amazon,google):
  
 Understand and map these 5 forces == good handle of the market 
 
-## Best Take-Aways
+### Best Take-Aways
 
 * Before starting a strategy, examine the external market, and the future external market
 * Need leadership that understands the external environment 
@@ -208,7 +228,7 @@ Understand and map these 5 forces == good handle of the market
 
 ---
 
-# Strategic Management
+## Strategic Management
 
 ### Igor Ansoff
 
@@ -218,11 +238,12 @@ Understand and map these 5 forces == good handle of the market
 | Existing -> New Products | 
 
 
-| .                 | Existing Products  | New Products | 
+| /play dangerzone  | Existing Products  | New Products | 
+| ----------------- | ------------------ | ------------- |
 | Existing Markets  | Market Penetration | Product Development |  
 | New Markets       | Market Development | Diversification     | 
 
-#### Timing for Actionable Intelligence 
+### Timing for Actionable Intelligence 
 
 Ansoff's model, 20% is required to make a move. People who pull the trigger on 80% knowledge miss out on opportunities 
 
@@ -232,6 +253,8 @@ Knowledge increases overtime.
 * Weak Signal = time period from 20-80% is really short. There's not a lot of time to respond to a weak signal. 
 
 When making decisions, why not have internal assessment on externals and adapt to them when others cannot? 
+
+### Strategic Management Cube 
 
 1. Problems
   * Internal
@@ -251,15 +274,18 @@ When making decisions, why not have internal assessment on externals and adapt t
   * Psycho-Social (get along/best case)
   * Cognitive/Logic Optics == Best Strategies 
 
-Keys to Strategic Management: 
+#### Keys to Strategic Management: 
 
 * Near Strategic: Transaction, execute, cognitive
 * Optimal Strategy: Adaptive, Execute, Cognitive 
 
-#### Newton Strategy Matrix
+### Newton Strategy Matrix
 
-Resources (personnel/capital): sufficient or lacking
-Time : Yes or No
+* Resources (personnel/capital): 
+  * Sufficient or Lacking
+
+* Time: 
+  * Yes or No
 
 |  .  | Sufficient | Lacking |
 | --- | ---------- | ------- |
@@ -271,28 +297,33 @@ Time : Yes or No
 3. Find acquisitions: get the functional capability
 4. Pivot & Adapt
 
-#### Newton Strategy Execute
+### Newton Strategy Execute
 
 When do you make your Move? 
 
-| Move | Early | Mid    | Late |
+| . | Early | Mid    | Late |
 | ---- | ----  | ------ | ---- |
-| Good | Lead  | Pack   | Lag   |
-| Bad  | Alone | Behind | Missed Opportunity | 
+| **Good Outcome** | Lead  | Pack   | Lag   |
+| **Bad Outcome**  | Alone | Behind | Missed Opportunity | 
 
-#### Strategic Business Unit Model
+### Strategic Business Unit Model
 
-| .         |  Industry Maturity                            | 
-| Position  | Embryonic | Growth    | Maturity  | Aging     |
+Industry Maturity: Embryonic, Growth, Mature, Aging
+ 
+| **Position**  | Embryonic | Growth    | Mature  | Aging     |
 | --------  | --------- | --------- | --------- | --------- |
-| Leading   | Build     | Build     | Build     | Build     |
-| Strong    | Build     | Build     | Build     | Maintain  |
-| Favorable | Build     | Build     | Maintain  | Liquidate |
-| Tenable   | Build     | Maintain  | Liquidate | Liquidate |
-| Weak      | Maintain  | Liquidate | Liquidate | Liquidate |
-| Nonviable | Liquidate | Liquidate | Liquidate | Liquidate |
+| **Leading**   | Build     | Build     | Build     | Build     |
+| **Strong**    | Build     | Build     | Build     | Maintain  |
+| **Favorable** | Build     | Build     | Maintain  | Liquidate |
+| **Tenable**   | Build     | Maintain  | Liquidate | Liquidate |
+| **Weak**      | Maintain  | Liquidate | Liquidate | Liquidate |
+| **Nonviable** | Liquidate | Liquidate | Liquidate | Liquidate |
 
-* On Strategy, Boston Consulting Group 
+### Reading: Strategic Managment
+
+* *On Strategy* 
+> Boston Consulting Group 
+
 | .           | Low Market Share   | High Market Share | 
 | ----------- | -----------------  | ----------------  |
 | High Growth |  Question Marks    |  Stars            |
@@ -311,4 +342,5 @@ When do you make your Move?
 * Be objective on your strategy planning. 
 * Timing is important, make sure you have the right resources
  
+
 
