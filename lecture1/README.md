@@ -5,14 +5,14 @@
 ## Lecture 1: July 6, 2017
 
 ### Strategy Course
- * Peicemeal strategy -> A Mess
+ * Piecemeal strategy -> A Mess
 
 Understanding strategic terminology is important
 
 * Strategy 
   * Complex but make it specific to your needs
   * Very Specific
-    * deadlines, plans, nonambiguous 
+    * deadlines, plans, unambiguous 
   * Building relationships
     * 
   * Plan for growth 
@@ -20,7 +20,7 @@ Understanding strategic terminology is important
   * Not synonymous with long-term
   * One objective
     * Has goals
-    * Tactics: very specific operation things to do: perople to hire, facilities to open up
+    * Tactics: very specific operation things to do: people to hire, facilities to open up
       * things to do to meet your goal 
   * Positioning: how well the organization is positioned
     * remain relevant 
@@ -68,7 +68,7 @@ Internal operations support strategy, but is not an operations support
 
 * Strategy is needed, formal planned idea
 * Don't build strategies around operations
-* 2 effictive strategies: technological monopoly or lowest price 
+* 2 effective strategies: technological monopoly or lowest price 
 * Senior members should focus on strategic problems not operational problems.   
 
 ### Building Strategy
@@ -76,7 +76,7 @@ Internal operations support strategy, but is not an operations support
 1. Examine the External Environment
   * Start by looking at the externals
   * Anticipated future of the market
-  * Actionable intelligence from the environment: get a good feel of the anticipated change ("Turbulance") 
+  * Actionable intelligence from the environment: get a good feel of the anticipated change ("Turbulence") 
   * Drives strategy
 2. Audit Internal Functional Capabilities
   * Strategic Posture 
@@ -95,7 +95,7 @@ Internal operations support strategy, but is not an operations support
   * Requires:
     * Time 
     * Resources
-      * Personel 
+      * Personnel 
       * Capital (cash)
 5. Execute, Monitor, and Assess
   * Default strategic objective: "we are going to be well positioned in the future anticipated external environment"
@@ -115,7 +115,7 @@ Internal operations support strategy, but is not an operations support
 * Metrics
   * assess success 
 
-### Turbulance Scale
+### Turbulence Scale
 
 1. Repetitive
   * Stable, being reliable 
@@ -136,7 +136,7 @@ Internal operations support strategy, but is not an operations support
  * Best Capability: Strategic 
  * Response: Entrepreneurial 
 
-5. Suprise/Shock
+5. Surprise/Shock
   * Best Capability: Flex/Pivot
   * Response: Creative/Pre-emptive
 
@@ -171,7 +171,7 @@ Discontinuous Improvement:
 
 Isolating Mechanisms: 
   * Value:
-    1. Arises ( hot new product)
+    1. Arises (hot new product)
     2. Decays/Plateaus
     3. Renewed
 
@@ -190,7 +190,7 @@ Strategic Staircase (apple,amazon,google):
 
 1. Supplier Bargaining Power
 2. Buyer Bargaining Power
-3. Rivalry Among Existing Competitiors
+3. Rivalry Among Existing Competitors
 4. Threat of Substitute Products or Services
 5. New Entrants Threats
  
@@ -208,7 +208,7 @@ Understand and map these 5 forces == good handle of the market
 
 ---
 
-# Stragetic Management
+# Strategic Management
 
 ### Igor Ansoff
 
@@ -224,18 +224,18 @@ Understand and map these 5 forces == good handle of the market
 
 #### Timing for Actionable Intelligence 
 
-Ansoff's model, 20% is required to make a move. People who pull the tigger on 80% knowledge miss out on opportunities 
+Ansoff's model, 20% is required to make a move. People who pull the trigger on 80% knowledge miss out on opportunities 
 
 Knowledge increases overtime. 
 
 * Strong Signal = linear, predictable, companies should be fairly well to respond to strong signals
 * Weak Signal = time period from 20-80% is really short. There's not a lot of time to respond to a weak signal. 
 
-When making desicions, why not have internal assessment on externals and adapt to them when others cannot? 
+When making decisions, why not have internal assessment on externals and adapt to them when others cannot? 
 
 1. Problems
   * Internal
-    * Configureation 
+    * Configuration 
     * Dynamics
   * External 
     * Transaction: with other companies
@@ -251,14 +251,14 @@ When making desicions, why not have internal assessment on externals and adapt t
   * Psycho-Social (get along/best case)
   * Cognitive/Logic Optics == Best Strategies 
 
-Keys to Stragetic Management: 
+Keys to Strategic Management: 
 
 * Near Strategic: Transaction, execute, cognitive
-* Optial Strategy: Adaptive, Execute, Cognitive 
+* Optimal Strategy: Adaptive, Execute, Cognitive 
 
 #### Newton Strategy Matrix
 
-Resources (personel/capital): sufficient or lacking
+Resources (personnel/capital): sufficient or lacking
 Time : Yes or No
 
 |  .  | Sufficient | Lacking |
@@ -268,7 +268,7 @@ Time : Yes or No
 
 1. Ideal 
 2. Finding partnerships, people that have resources. 
-3. Find aquisitions: get the functional capability
+3. Find acquisitions: get the functional capability
 4. Pivot & Adapt
 
 #### Newton Strategy Execute
@@ -311,3 +311,4 @@ When do you make your Move?
 * Be objective on your strategy planning. 
 * Timing is important, make sure you have the right resources
  
+
