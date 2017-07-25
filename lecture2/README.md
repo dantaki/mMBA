@@ -2,7 +2,7 @@
 
 ## July 11, 2017
 
-#### INstructor: Rossen Valkavnov
+#### Instructor: Rossen Valkavnov
 ---
 
 ## Table of Contents 
