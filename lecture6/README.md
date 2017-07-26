@@ -65,7 +65,7 @@ What happens to a bad fit? *Self-destruction, saboteurs*
 
 Positional power is used by leaders to influence **what people want**
 
-`who lit you up [lol]` 
+`who lit you up [lol]` :joy: 
 
 Leader is impactful. Leader is an advocate, goes to battle for people in an organization. 
 
@@ -160,7 +160,7 @@ Socialized Power Seeks:
 
 *Goal*: leaders build socialized power on behalf of the organization have a significant and positive impact on their team members. 
 
-`P O W E R S M A R T`
+:muscle: `P O W E R S M A R T` :muscle:
 * True 2 the Team
 * True 2 the Mission
 * True 2 the Organization
