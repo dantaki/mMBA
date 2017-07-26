@@ -169,4 +169,11 @@ Socialized Power Seeks:
 
 `people want their leaders to represent the best in themselves`
 
+## P O W E R S M A R T
+
+`leaders blend the hard and soft power tools. Inspire, persuade and show examples of soft power`
+
+
+
+
 
