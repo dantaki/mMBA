@@ -10,4 +10,4 @@
 4. [Lecture 4: Communicating in the Workplace](https://github.com/dantaki/mMBA/tree/master/lecture4)
 5. [Lecture 5: Pro Forma Financial Statements](https://github.com/dantaki/mMBA/tree/master/lecture5)
 6. [Lecture 6: Power and Leadership](https://github.com/dantaki/mMBA/tree/master/lecture6)
-
+7. [LEcture 7: Business Analytics](https://github.com/dantaki/mMBA/tree/master/lecture7)
