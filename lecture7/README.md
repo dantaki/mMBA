@@ -27,13 +27,13 @@
 
 Limitations of using analytics
 
-:mega::exclaimation: `Relying on business analytics will limit the range of posible new products and services`
+:mega::exclamation: `Relying on business analytics will limit the range of posible new products and services`
 
 There is a general danger that customers do not know what they want.
 
-:mega::exclaimation: Sometimes business analytics is not the solution 
+:mega::exclamation: Sometimes business analytics is not the solution 
 
-:mega:exclaimation: Testing with customers has a lot of value.
+:mega:exclamation: Testing with customers has a lot of value.
 
 ## When Not to Use Business Analytics
 
@@ -129,5 +129,5 @@ The Four Vs of Big Data:
 
 :shit::shit::shit: Common mistakes: lack of a business problem
 
-Lego approach: issues lead to data -:exclaimation:- not data leads to issues.
+Lego approach: issues lead to data -:exclamation:- not data leads to issues.
 Data hoarding happens when data drive issues. 
