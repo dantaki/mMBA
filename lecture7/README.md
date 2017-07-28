@@ -127,6 +127,7 @@ The Four Vs of Big Data:
 * Variety: different froms of data
 * Veracity: uncertainty of data
 
-Common mistakes: lack of a business problem
+:shit::shit::shit: Common mistakes: lack of a business problem
 
-
+Lego approach: issues lead to data -:exclaimation:- not data leads to issues.
+Data hoarding happens when data drive issues. 
