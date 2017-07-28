@@ -116,5 +116,17 @@ The value of a business analytic project depends on
 
 :scream::scream:`I T S S O B I G`:scream::scream:
 
+1. Collect Underpaints
+2. ????????
+3. PROFIT!!!! :moneybag::dollar::moneybag:
+
+The Four Vs of Big Data:
+
+* Volume: scale of data
+* Velocity: analysis of streaming data
+* Variety: different froms of data
+* Veracity: uncertainty of data
+
+Common mistakes: lack of a business problem
 
 
