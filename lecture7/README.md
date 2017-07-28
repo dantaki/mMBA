@@ -64,11 +64,13 @@ Basic template for consulting companies
 * What should the final report contain
 * How would the results be implemented?
   * scenarios :wink:
-* Create action :open_mouth: tables 
+* Create action tables :cat::mushroom::cat: 
 
 :mega: It can be extremely valuable to think backwards
 
 :cat: `start the process where it usually ends and then work backwards` :cat: 
+
+`~ B U S I N E S S ~ A N A L Y T I C S ~  I N ~ A C T I O N ~`
 
 #### Case A 
 
@@ -107,6 +109,12 @@ The value of a business analytic project depends on
 * can the decision be affected by the project outcome
 * is the investment meaningful?
 * is there significant uncertainty about action outcomes? 
+
+:neckbeard: - `Everything should be made as simple as possible, but not simpler!" - **his name was Albert Einstein**
+
 ## Big Data
+
+:scream::scream:`I T S S O B I G`:scream::scream:
+
 
 
