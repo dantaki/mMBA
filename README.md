@@ -1,6 +1,6 @@
 # MicroMBA
 
-:moneybag: :hamburger: :tropical\_drink: :pizza: :beers: :beers: :beers: :tropical\_drink: :hamburger: :moneybag:
+:moneybag: :hamburger: :tropical\_drink: :pizza: :beers: :beers: :beers: :pizza: :tropical\_drink: :hamburger: :moneybag:
 ---
 
 ## Table of Contents
