@@ -38,7 +38,7 @@ Slow down the response to create some space and time for stressful stituations
 
 `#TO DO: Ladder of Inference (Argyris, Harvard Business School)`
 
-
+`What are some other reasons for that behavior`
 
 ----
 
