@@ -149,6 +149,34 @@ Types
   * contribution is the future
 * role reversal or third position observation
 
+#### Feeing Conversation
+
+:thought\_balloon: Know Your Emotional Footprint
+
+* _Judgments_: :speech\_balloon: "If you were a good friendd you would have been there for me"
+* _Attributions_: :speech\_balloon: "Why you hurt me"
+* _Characteristics_: :speech\_ballon: "you're just so X"
+* _Problem Solving_
+
+#### Identity Conversations
+
+* All or Nothing syndrome
+* Exaggeration
+* Denial 
+  * :speech\_balloon: "You're full of it!" 
+* Use the "And" modifier 
+
+#### open the Conversation
+
+:speech\_balloon: "I noticed ... and I was wondering/thinking/feeling ..."
+
+:scissors: :scissors: :scissors: `SISIR` :scissors: :scissors: :scissors:
+
+* Situation (*I noticed...*)
+* Input (*What happened?*)
+* Summarize (*So, you...*)
+* Impact (*As a result ...*)
+* Request (*We need to... Would you be willing to ..?*)
 
 
 ---
