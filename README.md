@@ -1,7 +1,6 @@
 # MicroMBA
 
-:moneybag::gun::neckbeard::gun::moneybag:
-
+:moneybag: :hamburger: :tropical\_drink: :pizza: :moneybag:
 ---
 
 ## Table of Contents
@@ -13,3 +12,4 @@
 5. [Lecture 5: Pro Forma Financial Statements](https://github.com/dantaki/mMBA/tree/master/lecture5)
 6. [Lecture 6: Power and Leadership](https://github.com/dantaki/mMBA/tree/master/lecture6)
 7. [Lecture 7: Business Analytics](https://github.com/dantaki/mMBA/tree/master/lecture7)
+8. [Lecture 8: Difficult Conversations](https://github.com/dantaki/mMBA/tree/master/lecture8)

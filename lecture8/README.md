@@ -29,14 +29,15 @@ Be responsive instead of reactive :neckbeard:
 ### Mindful Responding
 Slow down the response to create some space and time for stressful stituations
 
-:traffic\_light: :bustop:
+:traffic\_light: :busstop:
 
 * **S**top
 * **T**ake a slow deep breath
 * **O**bserve/reflect
 * **P**roceed
 
-`#TO DO: Ladder of Inference`
+`#TO DO: Ladder of Inference (Argyris, Harvard Business School)`
+
 
 
 ----
