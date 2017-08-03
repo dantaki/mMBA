@@ -13,3 +13,4 @@
 6. [Lecture 6: Power and Leadership](https://github.com/dantaki/mMBA/tree/master/lecture6)
 7. [Lecture 7: Business Analytics](https://github.com/dantaki/mMBA/tree/master/lecture7)
 8. [Lecture 8: Difficult Conversations](https://github.com/dantaki/mMBA/tree/master/lecture8)
+9. [Lecture 8: Marketing: Part 1](https://github.com/dantaki/mMBA/tree/master/lecture9)
