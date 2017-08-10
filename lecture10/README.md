@@ -53,7 +53,7 @@ a name, term, sign, symbol, or design intended to *identify* the goods or servic
 * to brand or not to brand
 * brand extensions 
 
-### A Strong Brand :muscle:
+### :muscle: Strong Brands :muscle:
 
 1. Excels at delivering the benefits consumers turly desire
 2. Stays relevant
