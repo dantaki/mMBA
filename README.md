@@ -14,4 +14,5 @@
 7. [Lecture 7: Business Analytics](https://github.com/dantaki/mMBA/tree/master/lecture7)
 8. [Lecture 8: Difficult Conversations](https://github.com/dantaki/mMBA/tree/master/lecture8)
 9. [Lecture 9: Marketing: Part 1](https://github.com/dantaki/mMBA/tree/master/lecture9)
-9. [Lecture 10: Marketing: Part 2](https://github.com/dantaki/mMBA/tree/master/lecture10)
+10. [Lecture 10: Marketing: Part 2](https://github.com/dantaki/mMBA/tree/master/lecture10)
+11. [Lecture 11: Intro to Innovation](https://github.com/dantaki/mMBA/tree/master/lecture11)
