@@ -73,3 +73,12 @@ Intrapreneur has established organization. But hard to move them around.
 * motivate to excel, opportunity obsession
 * 0 fatal flaws
 
+### Axioms
+
+* key to succeeding is failing quickly and recouping quickly 
+* success is highly situational
+
+### What is an opportunity
+* creates or adds significant value to a customer
+* attractive risk-reward balance
+
